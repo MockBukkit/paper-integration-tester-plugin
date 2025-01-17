@@ -1,0 +1,1 @@
+rootProject.name = "paper-integration-tester-plugin"
